@@ -2,10 +2,12 @@
 <h3 align="center">An Embedded Linux developer from India, currently navigating the Oracle Linux team as a sustaining engineer, specializing in userspace</h3>
 
 - 🔭 I’m currently working on [pcp project](https://github.com/performancecopilot/pcp)
-
+  
+- My personal GitHub repo https://github.com/sagarramdev173
+  
 - 📫 How to reach me **sagarramdev173@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/sagarramdev173/painful-active-catshark](https://rxresu.me/sagarramdev173/painful-active-catshark)
+- 📄 Know about my experiences [My resume](https://rxresu.me/sagarramdev173/sagar-ramdev)
 
 - ⚡ Fun fact **I'm a hilarious aficionado of knowledge, constantly blabbering about the latest in tech like it's the juiciest gossip. If laughter is the best medicine, then consider me your personal pharmacist. Ready to learn and share a laugh or two along the way!**
 
