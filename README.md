@@ -5,7 +5,7 @@
   
 - My personal GitHub repo https://github.com/sagarramdev173
   
-- 📫 How to reach me **sagarramdev173@gmail.com**
+- 📫 How to reach me **sagar.sagar@oracle.com**
 
 - 📄 Know about my experiences [My resume](https://rxresu.me/sagarramdev173/sagar-resume)
 
